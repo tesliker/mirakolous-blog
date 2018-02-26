@@ -3,4 +3,5 @@ node_modules/
 .DS_Store
 .intermediate-representation/
 .cache/
+.idea/
 yarn.lock
