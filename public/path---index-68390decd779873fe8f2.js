@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{506:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Mirakolous.blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Ok, so I have been pondering making a blog for some time. I have long thought that I should be documenting\nthe issues I face daily and how I…",fields:{slug:"/first-blog-gatsbyjs/"},frontmatter:{date:"22 February, 2018",title:"First blog using gatsby.js"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-68390decd779873fe8f2.js.map
